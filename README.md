@@ -2,14 +2,14 @@
 
 Bu proje, Node.js ve Express kullanılarak geliştirilmiş, JWT kimlik doğrulamasına sahip bir RESTful API servisidir. Projede veri tabanı işlemmleri için Mysql kullanılmıştır.
 
-## 🚀 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 * **Backend:** Node.js, Express.js
 * **Veritabanı:** MySQL
 * **Güvenlik & Auth:** JSON Web Token (JWT)
 * **Araçlar:** dotenv, nodemon
 
-## 🛠️ Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 Projeyi lokal ortamınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
 
